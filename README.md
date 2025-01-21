@@ -1,1 +1,1 @@
-# jet-cinema
+# Aplikasi Jetpack Compose - Cinema ( list, detail activity, genre element )
